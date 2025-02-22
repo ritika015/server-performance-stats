@@ -1,0 +1,349 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/50x11-common_determine-startup: line 10: has_option: command not found
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting LANGUAGE=en_IN:en
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting NMAP_PRIVILEGED=
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting LANG=en_IN
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting PATH=/home/kali/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:929): xfwm4-WARNING **: 23:55:29.211: Another compositing manager is running on screen 0
+
+(xfce4-session:826): xfce4-session-WARNING **: 23:55:29.637: Unable to launch "xcape -e 'Super_L=Control_L|Escape'" (specified by autostart/xcape-super-key-bind.desktop): Failed to execute child process “xcape” (No such file or directory)
+
+(polkit-mate-authentication-agent-1:1003): GLib-CRITICAL **: 23:55:29.785: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1003): polkit-mate-1-WARNING **: 23:55:29.790: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(wrapper-2.0:1059): xfce4-power-manager-plugin-WARNING **: 23:55:30.358: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+blueman-applet 23.55.30 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 23.55.30 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 23.55.30 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+qt.xkb.compose: failed to create compose table
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.454: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.457: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.600: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.600: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.600: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.600: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.606: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.606: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.606: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.606: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.611: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.611: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.611: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.611: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.614: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.614: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.614: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.614: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.616: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.622: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.622: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.622: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.624: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.624: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.624: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.624: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.627: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.627: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.627: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.627: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.629: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.630: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.630: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.630: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.634: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.634: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.634: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.634: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.639: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.639: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.639: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.639: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.642: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.642: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.642: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.642: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.644: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.644: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.644: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.644: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.647: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.647: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.647: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.647: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.649: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.649: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.649: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.649: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.651: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.651: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.651: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.651: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.654: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.654: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.654: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.654: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.656: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.656: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.656: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.656: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.658: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.658: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.658: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.658: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.661: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.661: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.661: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.661: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.663: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.663: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.663: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.663: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.666: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.666: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.666: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.666: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.667: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.667: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.667: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.667: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.670: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.670: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.670: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.670: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.673: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.673: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.673: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.673: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.676: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.676: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.676: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.676: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.679: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.679: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.679: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.679: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.686: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.686: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.686: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.686: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.688: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.688: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.688: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.688: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.692: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.692: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.692: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.692: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.698: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.698: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.698: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.698: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.700: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.701: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.701: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.701: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.710: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.710: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.710: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.710: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.712: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.712: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.712: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): GLib-CRITICAL **: 00:13:00.712: g_strrstr: assertion 'haystack != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.715: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.715: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+
+(wrapper-2.0:1059): Gtk-CRITICAL **: 00:13:00.717: gtk_icon_theme_has_icon: assertion 'icon_name != NULL' failed
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
+search from 4 , 17 to -1 , 24
+linesToRead: 8
+Not found
+search from 0 , 0 to 4 , 17
+linesToRead: 18
+Found in string from 117 to 117
+m_foundStartColumn 21 m_foundStartLine 2 m_foundEndColumn 21 m_foundEndLine 2
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
+virtual KPtyProcess::~KPtyProcess() the terminal process is still running, trying to stop it by SIGHUP
+qt.xkb.compose: failed to create compose table
