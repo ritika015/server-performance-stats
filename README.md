@@ -77,10 +77,7 @@ Want to improve this project? Follow these steps:
 2. **Make your changes**  
 3. **Submit a pull request**  
 
----
 
-## 📜 License  
-This project is **open-source** under the [MIT License](LICENSE).  
 
 ---
 
@@ -89,6 +86,10 @@ Inspired by **Linux performance monitoring tools** like `htop`, `top`, and `vmst
 
 ---
 
+##  Project Url
+https://roadmap.sh/projects/server-stats
+
+---
 ## 🔗 Connect with Me  
 💬 Have suggestions or need help? Reach out on **GitHub Issues**!  
 📌 **GitHub Repository:** [Server Performance Stats](https://github.com/ritika015/server-performance-stats)  
